@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testtest
-=======
-test
->>>>>>> origin/fail-test
+1stest
